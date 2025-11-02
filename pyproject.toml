@@ -1,0 +1,14 @@
+
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "bitpacking-se2025"
+version = "0.1.0"
+description = "Bit packing compression with direct random access and overflow areas"
+authors = [{name="Mohamed El Amine MAZOUZ", email="aminemazouz236@gmail.com"}]
+requires-python = ">=3.8"
+
+[tool.pytest.ini_options]
+addopts = "-q"
