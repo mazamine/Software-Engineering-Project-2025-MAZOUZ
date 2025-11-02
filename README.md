@@ -1,5 +1,8 @@
 
 # Bit Packing Compression — Software Engineering Project 2025
+### *Mohamed El Amine MAZOUZ - Université Côte d'Azur Master 1 - IA*
+
+---
 
 Ce dépôt contient une implémentation Python de **bit packing** pour compresser des tableaux d’entiers avec :
 
